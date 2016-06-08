@@ -1,0 +1,6 @@
+platform :ios, ‘9.0‘
+
+target "SQLiteSwiftDemo" do
+use_frameworks!
+pod 'SQLite.swift', '~> 0.10.1'
+end
